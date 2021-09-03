@@ -22,28 +22,32 @@
   <img align="left" alt="Facebook" width="40px" src="/images/fb.png" />
 <a target="_blank" href="https://twitter.com/aman_m06">
   <img align="left" alt="Facebook" width="40px" src="/images/twitter.png" />
-</a></br><br>
+</a></br></br>
 
 <!-- About -->
-<h2>About: </h2>
+
+<h2>About: </h2></br>
 Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and <b>React</b> frameworks. I'm 22 years old and 5 of coding. I'm a 🎶 music lover and a Guitarist 🎸. 
 <ul>
-  <li>Computer Science And Engineering, B. Tech, 3rd Year.</li>
+  <li>Computer Science And Engineering, B. Tech, 4th Year.</li>
   <li>Education : IERT Prayagraj, India.</li>
   <li>I’m currently working on Game development using Pygames.</li>
   <li>I’m currently learning Matplotlib.</li>
   <li>Ask me about Guitar 🎸, Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li>
   <li>Fun fact: I'm good at duet dances.😄 </li>
-</ul><br>
+</ul></br>
 
 <!-- Languages and tools -->
 <h2>Languages and Tools:</br></h2>
-<img align="left" alt="C++" height="50px" src="/images/cpp.png" />
+
 <img align="left" alt="HTML, CSS, JS" height="50px" src="/images/webdev.png" />
+<img align="left" alt="C++" height="50px" src="/images/cpp.png" />
+
 <img align="left" alt="Django" height="50px" src="/images/django.png" />
-<img align="left" alt="React" height="50px" src="/images/react.jpg" />
+<img align="left" alt="React" height="50px" src="/images/react.png" />
+<img align="left" alt="Bootstrap" height="50px" src="/images/bootstrap.png" />
 <img align="left" alt="Python" height="50px" src="/images/python.png" />
-<br><br>
+</br></br></br>
 
 <!-- Statistics -->
 <h2> Github Stats:</h2>
