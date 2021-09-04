@@ -40,17 +40,18 @@ Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and
 <!-- Languages and tools -->
 <h2>Languages and Tools:</br></h2>
 
-<img align="left" alt="HTML, CSS, JS" height="50px" src="/images/webdev.png" />
-<img align="left" alt="C++" height="50px" src="/images/cpp.png" />
+<img align="left" alt="HTML, CSS, JS" width='15%' height="50px" src="/images/webdev.png" />
+<img align="left" alt="C++" width='8%' height="50px" src="/images/cpp.png" />
 
-<img align="left" alt="Django" height="50px" src="/images/django.png" />
-<img align="left" alt="React" height="50px" src="/images/react.png" />
-<img align="left" alt="Bootstrap" height="50px" src="/images/bootstrap.png" />
-<img align="left" alt="Python" height="50px" src="/images/python.png" />
+<img align="left" alt="Django" width='15%' height="50px" src="/images/django.png" />
+<img align="left" alt="React" width='8%' height="50px" src="/images/react.png" />
+<img align="left" alt="Bootstrap" width='15%' height="50px" src="/images/bootstrap.png" />
+<img align="left" alt="Python" width='15%' height="50px" src="/images/python.png" />
+  
 </br></br></br>
 
 <!-- Statistics -->
-<h2> Github Stats:</h2>
+<h2 align='left'> Github Stats:</h2>
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=i-am-stark&count_private=true&show_icons=true&hide=contribs)
 
