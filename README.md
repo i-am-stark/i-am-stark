@@ -8,7 +8,7 @@
 <img align="center" width ="100%" src="/images/bitmoji.png"/></br><br>
 
 <!-- Contact Me -->
-<h2>Find me here: </br></h2> 
+## Find me here:  
 <p><a target="_blank" href="https://www.linkedin.com/in/aman_m06/">
   <img align="left" alt="LinkdeIN" width="40px" src="/images/linkedin.png" />
 </a>
@@ -26,7 +26,7 @@
 
 <!-- About -->
 
-<h2>About: </h2></br>
+## About:
 Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and <b>React</b> frameworks. I'm 22 years old and 5 of coding. I'm a 🎶 music lover and a Guitarist 🎸. 
 <ul>
   <li>Computer Science And Engineering, B. Tech, 4th Year.</li>
@@ -38,21 +38,18 @@ Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and
 </ul></br>
 
 <!-- Languages and tools -->
-<h2>Languages and Tools:</br></h2>
+## Languages and Tools:
 
-<img align="left" alt="HTML, CSS, JS" height="50px" src="/images/webdev.png" />
-<img align="left" alt="C++" height="50px" src="/images/cpp.png" />
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/%20-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white) ![](https://img.shields.io/badge/c++%20-%2300598A.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/-bootstrap-%23563d7c?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img align="left" alt="Django" height="50px" src="/images/django.png" />
-<img align="left" alt="React" height="50px" src="/images/react.png" />
-<img align="left" alt="Bootstrap" height="50px" src="/images/bootstrap.png" />
-<img align="left" alt="Python" height="50px" src="/images/python.png" />
-</br></br></br>
 
 <!-- Statistics -->
-<h2> Github Stats:</h2>
+## Github Stats:
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=i-am-stark&count_private=true&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-stark&layout=compact)
-
+<p> 
+	<a href="https://github.com/the-brainiac">
+	  <img align="lest" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-stark&hide=javascript&custom_title=Most%20Used%20Languages%20and%20Tools&card_width=350" />
+	</a>
+</p>
