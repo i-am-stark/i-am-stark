@@ -49,7 +49,7 @@ Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=i-am-stark&count_private=true&show_icons=true&hide=contribs)
 
 <p> 
-	<a href="https://github.com/the-brainiac">
-	  <img align="lest" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-stark&hide=javascript&custom_title=Most%20Used%20Languages%20and%20Tools&card_width=350" />
+	<a href="https://github.com/i-amstark">
+	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-stark&hide=javascript&custom_title=Most%20Used%20Languages%20and%20Tools&card_width=350" />
 	</a>
 </p>
