@@ -27,7 +27,7 @@
 <!-- About -->
 
 ## About:
-Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and <b>React</b> frameworks. I'm 22 years old and 5 of coding. I'm a 🎶 music lover and a Guitarist 🎸. 
+Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and <b>React</b> frameworks. 
 <ul>
   <li>Computer Science And Engineering, B. Tech, 4th Year.</li>
   <li>Education : IERT Prayagraj, India.</li>
