@@ -33,7 +33,6 @@ Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and
   <li>Education : IERT Prayagraj, India.</li>
   <li>Currently playing with NodeJS and React-bootstrap.</li>
   <li>Ask me about Guitar 🎸, Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li>
-  <li>Fun fact: I'm good at duet dances.😄 </li>
 </ul></br>
 
 <!-- Languages and tools -->
