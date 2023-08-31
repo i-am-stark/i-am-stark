@@ -27,11 +27,11 @@
 <!-- About -->
 
 ## About:
-Hi I'm Aman Maurya. I know <b>full stack development</b> using <b>Django</b> and <b>React</b> frameworks. 
+Hi I'm Aman Maurya. I do <b>full stack development</b> using <b>Django,</b> NodeJS,</b>MongoDB and <b>React</b> frameworks. 
 <ul>
-  <li>Computer Science And Engineering, B. Tech, 4th Year.</li>
-  <li>Education : IERT Prayagraj, India.</li>
-  <li>Currently playing with NodeJS and React-bootstrap.</li>
+  <li>[2023-2025] Software Engineering, 1st Year, MTech @ NIT Rourkela, Odisha.</li>
+  <li>[2018-2022] Computer Science And Engineering, B. Tech, @ IERT Prayagraj, Uttar Pradesh.</li>
+  <li>Currently playing with NodeJS and Mysql.</li>
   <li>Ask me about Guitar 🎸, Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li>
 </ul></br>
 
