@@ -27,11 +27,12 @@
 <!-- About -->
 
 ## About:
-Hi I'm Aman Maurya. I do <b>full stack development</b> using <b>Django</b>, <b>NodeJS</b>, <b>MongoDB</b> and <b>React</b> frameworks. 
+Hi I'm Aman Maurya. I do <b>Full Stack Development and drink Tea all day. 
 <ul>
+  <li>[2025- Now] Software Engineer at Micron Technology, Hyderabad.</li>
   <li>[2023-2025] Software Engineering, MTech @ NIT Rourkela, Odisha.</li>
   <li>[2018-2022] Computer Science And Engineering, B. Tech, @ IERT Prayagraj, Uttar Pradesh.</li>
-  <li>Currently playing with NodeJS and Mysql.</li>
+  <li>Currently playing with .Net and Angular.</li>
   <li>Ask me about Guitar 🎸, Anime 👻 Workouts 🏋🏻 and any of the <b>Coding</b> stuff.😁</li>
 </ul></br>
 
